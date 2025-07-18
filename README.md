@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Server 2022 Active Directory Home Lab</b>
-  - [Setting Up & Using an IT Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting Up & Using an IT Home Lab](https://github.com/AndrewWilson11/Active-Directory-Homelab)
 
 
 <h2>📄Certifications</h2>
