@@ -8,7 +8,7 @@
 
 <h2>📄Certifications</h2>
 
-  - [CompTia A+](https://www.comptia.org/certifications/a)  
+  - [CompTia A+](https://www.credly.com/badges/e0e89375-4d3c-4232-9ad6-9f0cbf004252/public_url/a)  
 
 <h2> 🤳 Connect with me:</h2>
 
